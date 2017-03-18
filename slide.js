@@ -188,3 +188,6 @@ function empty(mxv){
 		equalSize(".col_x2");
 	
 	});
+/*if (p == 'marginRight' && $.browser.safari) { var old = {'display': 'block', 'float': 'none', 'width': 'auto'}, oWidth, oWidth2; $.swap(el, old, function() { oWidth = el.offsetWidth; }); old['marginRight'] = 0; $.swap(el, old, function() { oWidth2 = el.offsetWidth; }); return oWidth2 - oWidth; }*/
+
+/*if ($.browser.safari) { this.buttons(false, false); $(window).bind('load', function() { self.setup(); }); } else */ this.setup();
