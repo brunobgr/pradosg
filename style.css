@@ -107,7 +107,7 @@ body,button,input,select,textarea
 
 body
 {
-	background:#fff url(https://dl.dropboxusercontent.com/u/1239161/WSECURYT/bg-header_in.jpg)repeat-x top;
+	background:#fff url(https://sites.google.com/site/pradoseg1/bg-header_in.jpg)repeat-x top;
 }
 
 background: url(../img/bg/fancy_deboss.png);
@@ -662,7 +662,7 @@ input#s
 
 .nivo-controlNav a
 {
-	background:url(https://dl.dropbox.com/u/1239161/IMAGES/bullets.png) no-repeat;
+	background:url(https://sites.google.com/site/pradoseg1/bullets.png) no-repeat;
 	border:0;
 	cursor:pointer;
 	display:block;
@@ -683,7 +683,7 @@ input#s
 
 .nivo-directionNav a
 {
-	background:url(https://dl.dropboxusercontent.com/u/1239161/WSECURYT/arrows.png) no-repeat;
+	background:url(https://sites.google.com/site/pradoseg1/arrows.png) no-repeat;
 	border:0;
 	cursor:pointer;
 	display:block;
@@ -1587,7 +1587,7 @@ a.says
 
 #topo-menu
 {
-	background:url(https://dl.dropboxusercontent.com/u/1239161/wsecurity/image/menu_top.png) no-repeat;
+	background:url(https://sites.google.com/site/pradoseg1/menu_top.png) no-repeat;
 	display:block;
 	float:left;
 	height:158px;
@@ -1609,7 +1609,7 @@ a.says
 
 #logo
 {
-	background:url(https://dl.dropboxusercontent.com/u/1239161/WSECURYT/LOGO_WSECURITY.png) no-repeat 0 0;
+	background:url(https://sites.google.com/site/pradoseg1/logo_top.png) no-repeat 0 0;
 	display:block;
 	height:92px;
 	margin:-70px 0 0 -15px;
@@ -1620,7 +1620,7 @@ a.says
 
 #logo:hover
 {
-	background:url(https://dl.dropbox.com/u/1239161/WSECURYT/logo_wsecuryts_hover.png) 0 0 no-repeat;
+	background:url(https://sites.google.com/site/pradoseg1/logo_top.png) 0 0 no-repeat;
 }
 
 #home
